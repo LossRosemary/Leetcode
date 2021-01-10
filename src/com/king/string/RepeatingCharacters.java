@@ -27,9 +27,9 @@ public class RepeatingCharacters {
 	 */
 	public static void main(String[] args) {
 		String str = "abcabcdb";
-		//int num = lengthOfLongestSubstring(str);
+		int num = lengthOfLongestSubstring(str);
 		int num_set = lengthOfLongestSubstring_Set(str);
-		//System.out.println(num);
+		System.out.println(num);
 		System.out.println(num_set);
 	}
 	
