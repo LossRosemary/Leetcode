@@ -1,4 +1,4 @@
-package com.king.code;
+package com.king.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
